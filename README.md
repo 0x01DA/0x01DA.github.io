@@ -1,6 +1,6 @@
 ## CTF TEAM 0x01DA
 
-Comming soon...
+Our team is on [CTFtime](https://ctftime.org/team/104949).
 
 ## Previous Challenges
 
