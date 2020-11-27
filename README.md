@@ -1,5 +1,7 @@
 ## CTF TEAM 0x01DA
 
+![0x01DA Logo](/images/0x01DA.jpg "0x01DA Logo")
+
 Our team is on [CTFtime](https://ctftime.org/team/104949).
 
 ## Previous Challenges
