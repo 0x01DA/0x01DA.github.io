@@ -4,8 +4,11 @@
 
 Our team is on [CTFtime](https://ctftime.org/team/104949).
 
-## Previous Challenges
+## Some Previous Challenges
 
+* VishwaCTF 2022
+* DamCTF 2021
+* UTCTF 2021
 * Brixel CTF winter edition 2020
 * Sunshine CTF 2020
 * csictf 2020
